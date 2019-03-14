@@ -12,6 +12,6 @@ class HelloController
      */
     public function hello()
     {
-        return new Response('HELLO CLEVER');
+        return new Response('HELLO CLEVER CLOUD');
     }
 }
